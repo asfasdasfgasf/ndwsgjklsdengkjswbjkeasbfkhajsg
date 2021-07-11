@@ -1,0 +1,18 @@
+<body><pre style="word-wrap: break-word; white-space: pre-wrap;">
+html{font-size:10px;-webkit-tap-highlight-color:rgba(0,0,0,0)}
+body{font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;font-size:14px;line-height:1.42857143;color:#333;background-color:#ffff}
+button,input,optgroup,select,textarea{margin:0;font:inherit;color:inherit}
+button:focus{outline:none}
+.modal{padding:0!important}
+.shopier{-webkit-border-radius:0px;-moz-border-radius:0px;border-radius:2px;border:1px solid #ffff;padding:0px 0px;background-color:#ffff}
+.modal-content{-webkit-box-shadow:0 3px 9px rgba(0,0,0,.5);-moz-box-shadow:0 3px 9px rgba(0,0,0,.5);box-shadow:0 3px 9px rgba(0,0,0,.5);border-radius:6px}
+.modal-title{width:100%;display:flex;align-items:center;justify-content:space-between;font-size:1.8rem}
+.close{float:right;font-size:21px;font-weight:700;line-height:1;color:#000;text-shadow:0 1px 0 #fff;filter:alpha(opacity=20);opacity:.2}
+.close:focus,
+.close:hover{color:#000;text-decoration:none;cursor:pointer;filter:alpha(opacity=50);opacity:.5}
+@media (min-width:768px){
+  .modal-content{-webkit-box-shadow:0 5px 15px rgba(0,0,0,.5);-moz-box-shadow:0 5px 15px rgba(0,0,0,.0);box-shadow:0 5px 15px rgba(0,0,0,.5)}
+}
+  @media (min-width:992px){.modal-dialog{width:600px;max-width:600px}
+  }
+  </pre></body>
